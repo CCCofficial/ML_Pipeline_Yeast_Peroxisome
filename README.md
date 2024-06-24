@@ -1,7 +1,6 @@
 
 # ML Pipeline for Yeast Peroxisome Prediction
 
-This repository contains the code and data for building machine learning models to predict yeast peroxisome capacity.
 
 ## Project Overview
 This project aims to develop and evaluate various machine learning models for predicting the capacity of yeast peroxisomes. It includes data preprocessing, model training, evaluation, and _in silico_ screening, among other tasks. More details can be found below under __Usage__.

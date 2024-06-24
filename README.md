@@ -9,6 +9,7 @@ This project aims to develop and evaluate various machine learning models for pr
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 - [License](#license)
 - [Contact](#contact)
 
@@ -46,6 +47,10 @@ This project aims to develop and evaluate various machine learning models for pr
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
 
+## Acknowledgments
+This work is funded by the National Science Foundation (NSF) grant No. DBI-1548297, Center for Cellular Construction.
+Disclaimer: Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+
 ## License
 This project is licensed under the MIT License.
 
@@ -54,3 +59,4 @@ For any questions or issues, please open an issue in this repository or contact:
 - Jie Shi: shijie@ibm.com
 - Shangying Wang: swang@altoslabs.com
 - Sara Capponi: sara.capponi@ibm.com
+

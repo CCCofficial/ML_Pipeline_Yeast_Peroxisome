@@ -4,12 +4,11 @@
 This repository contains the code and data for building machine learning models to predict yeast peroxisome capacity.
 
 ## Project Overview
-This project aims to develop and evaluate various machine learning models for predicting the capacity of yeast peroxisomes. It includes data preprocessing, model training, and evaluation scripts.
+This project aims to develop and evaluate various machine learning models for predicting the capacity of yeast peroxisomes. It includes data preprocessing, model training, evaluation, and _in silico_ screening, among other tasks. More details can be found below under __Usage__.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -44,13 +43,6 @@ This project aims to develop and evaluate various machine learning models for pr
    - `gene_combin_generator.ipynb`
      - Apply novel combination selection algorithm where we randomly generated samples with gene combinations from the under-represesnted region. 
      
-
-## Features
-- **Data preprocessing and cleaning**: Scripts and methods to preprocess and clean the dataset.
-- **Model training**: Training scripts for different machine learning models including CNN, LSTM, and GBR.
-- **Model evaluation and comparison**: Evaluation metrics and comparison of different models.
-- **Dimensionality reduction**: Techniques for reducing the dimensionality of the dataset.
-- **Predictions**: Scripts for making predictions using the trained models.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
